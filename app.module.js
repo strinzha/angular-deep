@@ -1,2 +1,4 @@
-angular
-    .module('app',['ngResource']);
+(function(){
+	angular
+    	.module('app',['ngResource']);
+})();
